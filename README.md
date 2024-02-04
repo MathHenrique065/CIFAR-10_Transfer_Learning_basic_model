@@ -1,3 +1,3 @@
-# Pre trained ViT basic model for detecting brain diseases (Work in progress...)
+# CIFAR-10 Challenge + Pre-trained CNN (VGG-19)
 
-This is a basic image classification solution using CNNs and a Pre-trained ViT to help diagnose Alzheimer's and Parkinson's Disease.
+Basic image classification model using Tensorflow 2.0, CIFAR-10 dataset and VGG-19 as a pre-trained model.
